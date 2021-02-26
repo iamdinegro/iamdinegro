@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=diego5896&show_icons=true&theme=radical)
+
+
 <details>
   <summary> <b> Coisas sobre mim </b> <i>(click to expand:)</i> </summary>
   
