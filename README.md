@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<details>
+  <summary> <b> Coisas sobre mim </b> <i>(click to expand:)</i> </summary>
+  
+  
+  <br>
+    isso estará escondido
+</details>
+
+
+
+
 <!--
 **Diego5896/diego5896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
