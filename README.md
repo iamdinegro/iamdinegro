@@ -4,9 +4,11 @@
 
 </div>
 
+<div align="center">
 
 ![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=diego5896&show_icons=true&theme=radical)
   
+</div>
 
 <br>
 <br>
