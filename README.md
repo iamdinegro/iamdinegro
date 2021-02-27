@@ -8,6 +8,6 @@
 </div>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego5896&layout=compact)](https://github.com/diego5896/diego5896)
 ![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=diego5896&show_icons=true&theme=radical)
 
