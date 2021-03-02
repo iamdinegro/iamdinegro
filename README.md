@@ -21,10 +21,6 @@
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
 <div align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="60" height="65" al>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60" height="65" al>
