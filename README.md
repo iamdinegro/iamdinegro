@@ -8,8 +8,11 @@
    Olá, meu nome é Diego e estou estudante da TI. Atualmente atuo como Assistente de Tecnologia da Informação na Talktelecom e estudo Redes de Computadores no Centro Universitário Sumaré.
 </P>
 <p align="center">
-Minhas skills (habilidades) estão voltadas para servidores Linux e Redes, onde venho me aprofundando cada dia mais, fazendo treinamentos e, estudando para provas de certificação. Nos últimos meses venho estudando Cybersecurity e Penetration Test, onde venho aplicando meus conhecimentos de Linux e redes TCP/IP.   
+   Minhas habilidades estão voltadas para servidores Linux e Redes, onde venho me aprofundando cada dia mais, fazendo treinamentos e, estudando para provas de certificação. Nos últimos meses venho estudando Cybersecurity, onde venho aplicando meus conhecimentos de Linux e redes TCP/IP.   
 </P>
+<p align="center">
+   Como um bom curioso, atualmente estou seguindo uma trilha de estudos para o mundo de DevOps, aprendendo não só ferramentas como Ansible, Vagrant, Docker, etc, como também a cultura envolvida que visa acabar com as barreiras entre os grupos de desenvolvimento e operações, e melhorar a entrega.
+</p>
 
 <div align="center">
 
