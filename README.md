@@ -9,7 +9,7 @@
    Olá, meu nome é Diego e sou estudante de TI. Atualmente atuo como Assistente de Tecnologia da Informação na Talktelecom e estudo Redes de Computadores no Centro Universitário Sumaré.
 </P>
 <p align="center">
-   Como um bom curioso, atualmente estou seguindo uma trilha de estudos para o mundo de DevOps, aprendendo não só ferramentas como Ansible, Vagrant, Docker, etc, como também a cultura envolvida que visa acabar com as barreiras entre os grupos de desenvolvimento e operações, e melhorar a entrega.
+   Como um bom curioso, atualmente estou seguindo uma trilha de estudos para o mundo de DevOps, aprendendo não só ferramentas como Ansible, Vagrant, Docker, etc, como também a cultura envolvida que visa acabar com as barreiras entre os grupos de desenvolvimento e operações, e melhorar a entregade software.
 </p>
 
 <div align="center">
