@@ -12,12 +12,4 @@
 </div>
 
 <br>
-<div align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="45" height="50" al>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="45" height="50" al>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="45" height="50" al>
-        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="45" height="50" al>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="45" height="55" al>
-        <img src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" width="45" height="50" al>
-</div>
 </div>
