@@ -1,15 +1,17 @@
-<div style="background-color: #141321;">
-<div align="center">
 
-   <img src="https://i.pinimg.com/originals/70/8b/93/708b93095802197d5b91840040e5dcb4.gif" width="500" height="300">
+:octocat:	Welcome to my profile. :octocat:	
 
-</div>
+:star:Junior DevOps:star:
 
-<div align="center">
+:star:Skills: 
+Kubernetes, GitFlow, Docker, Linux, ShellScript, Azure DevOps etc.
 
-![Diego's Github Stats](https://github-readme-stats.vercel.app/api?username=diego5896&show_icons=true&theme=radical)
-  
-</div>
+   [<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/diegosant123/)
+   [<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">](https://twitter.com/iamdinegro)
+   [<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">](https://www.facebook.com/profile.php?id=100024175417273)
 
-<br>
-</div>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego5896&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego5896&layout=compact&langs_count=7&theme=dracula"/>
+
+
