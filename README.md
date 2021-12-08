@@ -1,9 +1,9 @@
 
 :octocat:	Welcome to my profile. :octocat:	
 
-:star:Junior DevOps:star:
+DevOps 
 
-:star:Skills: 
+Skills: 
 Kubernetes, GitFlow, Docker, Linux, ShellScript, Azure DevOps etc.
 
    [<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/diegosant123/)
